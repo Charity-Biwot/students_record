@@ -1,5 +1,5 @@
 fun main() {
-    var student = "full_name"
+    var student = "fullName"
     println(student)
     var age = 15
     println(age)
@@ -9,7 +9,7 @@ fun main() {
     println(studentWeight)
     val kenya : Boolean = true
     val others : Boolean = false
-    println(kenya)
-    println(others)
+    println(kKenya)
+    println(Others)
 
 }
